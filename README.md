@@ -1,16 +1,13 @@
-## Hi there 👋
+## Who am i? ☝🥸
 
-<!--
-**DanielLFest/DanielLFest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a bachelor's degree in Environmental Science with a non-defined learning route or specialization yet, 
+just **_testing what really pasionates me_** 🤷‍♂️
 
-Here are some ideas to get you started:
+I am learning different bunch of data-related stuff. Here there are some of my interests that i am seekking frequently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗺 Geospatial Databases/Geographic Information Systems and database management in general 
+- 🏢 Data Analysis applied to Bussiness Inteligence
+- 📊 Data Science (applied to whatever industry 🏭 which makes impact to people)
+- 💧🌳 Water and soil sciences (Yes, it should appear at least two environmental topics on this lists 😅)
+
+In my leasure time, a trekking lover 🚵‍♀️ and a gymbro 🏋
